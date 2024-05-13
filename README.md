@@ -1,9 +1,16 @@
-# React
+# Chat Application with AI Bot
+This is a simple chat application integrated with an AI Bot. It allows users to chat with the AI Bot and view the chat history.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features
+Social Insight Dashboard with Chat with an AI Bot in real-time.
+search company name 
+get followers count
+use data for graphical representation 
+View chat history.
+Simple and intuitive user interface.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# assignment
+Technologies Used
+React.js: Frontend library for building user interfaces.
+Lodash: JavaScript utility library for debouncing function calls.
+Axios: Promise-based HTTP client for making API requests.
+AI Bot: Integrated AI Bot for generating responses to user prompts.
